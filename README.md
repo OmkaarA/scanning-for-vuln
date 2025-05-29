@@ -64,17 +64,6 @@ To develop an introductory understanding of vulnerability assessments and identi
 
 ---
 
-## 📸 Screenshots Included
-
-| Screenshot | Description |
-|-----------|-------------|
-| `01_nessus_download_page.png` | Nessus download source |
-| `02_nessus_home_after_install.png` | Nessus dashboard post-installation |
-| `03_scan_configuration_page.png` | Scan setup targeting local machine |
-| `04_vulnerabilities_summary.png` | Summary of vulnerabilities found |
-| `05_chrome_vulnerability_detail.png` | Detailed view of Chrome vulnerability |
-
----
 
 ## 📚 Learnings & Takeaways
 
