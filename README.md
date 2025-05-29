@@ -20,12 +20,14 @@ To develop an introductory understanding of vulnerability assessments and identi
 
 2. **Configured the Local Machine as Scan Target**
    - Used `localhost` / local IP address as the scan target.
-<img width="1440" alt="Screenshot 2025-05-29 at 12 11 54" src="https://github.com/user-attachments/assets/f3ed4da2-aaa1-4564-94e5-644918cacac5" />
+<img width="1434" alt="4" src="https://github.com/user-attachments/assets/14edcd7e-f189-4743-8e0b-70fc4a006800" />
+
 
 
 3. **Initiated a Full Vulnerability Scan**
    - Launched a full system scan with default configurations.
-<img width="1440" alt="Screenshot 2025-05-29 at 12 59 29" src="https://github.com/user-attachments/assets/f1171011-fd53-4965-a49f-d847208bed75" />
+<img width="1434" alt="3" src="https://github.com/user-attachments/assets/d4ab6afd-c219-421b-ac13-b6b0ee7fda30" />
+
 
 
 4. **Waited for the Scan to Complete**
@@ -34,7 +36,8 @@ To develop an introductory understanding of vulnerability assessments and identi
 5. **Reviewed the Report**
    - Identified several vulnerabilities with varying severity levels.
 <img width="1432" alt="Screenshot 2025-05-29 at 12 36 04" src="https://github.com/user-attachments/assets/e2bb12c5-8d10-4158-be1e-25f781158bff" />
-<img width="1440" alt="Screenshot 2025-05-29 at 12 55 55" src="https://github.com/user-attachments/assets/5d640838-02ab-4bf5-b547-1398b0739d8a" />
+<img width="1437" alt="2" src="https://github.com/user-attachments/assets/60e35d92-1d98-4962-8423-f9985ebdd50c" />
+
 
 
 6. **Researched Fixes or Mitigations**
@@ -45,7 +48,8 @@ To develop an introductory understanding of vulnerability assessments and identi
    - Example: Outdated version of **Google Chrome** detected.
      - Risk: Exposed to publicly known exploits.
      - Mitigation: Updated Chrome to the latest stable version.
-<img width="1440" alt="Screenshot 2025-05-29 at 13 01 12" src="https://github.com/user-attachments/assets/a554baa0-932d-4c15-bcf6-ad41fe80f46a" />
+<img width="1430" alt="1" src="https://github.com/user-attachments/assets/38bb682c-7b27-4738-b243-af02dd93d58d" />
+
 
 
 
