@@ -25,8 +25,7 @@ To develop an introductory understanding of vulnerability assessments and identi
 
 3. **Initiated a Full Vulnerability Scan**
    - Launched a full system scan with default configurations.
-<img width="1440" alt="Screenshot 2025-05-29 at 12 59 29" src="https://github.com/user-attachments/assets/788c3ce8-4c7f-4093-ad4b-ce7fb8ea1270" />
-
+<img width="1440" alt="Screenshot 2025-05-29 at 12 59 29" src="https://github.com/user-attachments/assets/f1171011-fd53-4965-a49f-d847208bed75" />
 
 
 4. **Waited for the Scan to Complete**
@@ -34,7 +33,7 @@ To develop an introductory understanding of vulnerability assessments and identi
 
 5. **Reviewed the Report**
    - Identified several vulnerabilities with varying severity levels.
-<img width="1440" alt="Screenshot 2025-05-29 at 12 36 04" src="https://github.com/user-attachments/assets/41c9d8bc-a36f-4cc7-9dc9-c8cd8ff8e50b" />
+<img width="1432" alt="Screenshot 2025-05-29 at 12 36 04" src="https://github.com/user-attachments/assets/e2bb12c5-8d10-4158-be1e-25f781158bff" />
 <img width="1440" alt="Screenshot 2025-05-29 at 12 55 55" src="https://github.com/user-attachments/assets/5d640838-02ab-4bf5-b547-1398b0739d8a" />
 
 
